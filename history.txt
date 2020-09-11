@@ -1,0 +1,23 @@
+Trip duration: 13/05/2020 18:34:38 to 13/05/2020 18:35:05, You have slept 1 time(s), and yawned 0 time(s) during trip.
+Trip duration: 13/05/2020 18:35:45 to 13/05/2020 18:36:09, You have slept 1 time(s), and yawned 1 time(s) during trip.
+Trip duration: 14/05/2020 09:58:34 to 14/05/2020 09:59:36, You have slept 2 time(s) at ['14/05/2020 09:59:03', '14/05/2020 09:59:30'], and yawned 1 time(s) at ['14/05/2020 09:59:17'] during your trip.
+Trip duration: 13/06/2020 12:38:55 to 13/06/2020 12:39:27, You have slept 2 time(s) at ['13/06/2020 12:39:11', '13/06/2020 12:39:18'], and yawned 1 time(s) at ['13/06/2020 12:39:17'] during your trip.
+Trip duration: 13/06/2020 13:26:56 to 13/06/2020 13:27:06, You have slept 0 time(s) at [], and yawned 0 time(s) at [] during your trip.
+Trip duration: 13/06/2020 13:41:07 to 13/06/2020 13:41:18, You have slept 0 time(s) at [], and yawned 0 time(s) at [] during your trip.
+Trip duration: 13/06/2020 13:43:47 to 13/06/2020 13:43:54, You have slept 0 time(s) at [], and yawned 0 time(s) at [] during your trip.
+Trip duration: 13/06/2020 13:44:56 to 13/06/2020 13:45:10, You have slept 0 time(s) at [], and yawned 0 time(s) at [] during your trip.
+Trip duration: 13/06/2020 14:12:05 to 13/06/2020 14:12:09, You have slept 0 time(s) at [], and yawned 0 time(s) at [] during your trip.
+Trip duration: 13/06/2020 14:36:20 to 13/06/2020 14:36:30, You have slept 0 time(s) at [], and yawned 0 time(s) at [] during your trip.
+Trip duration: 13/06/2020 15:01:41 to 13/06/2020 15:01:48, You have slept 0 time(s) at [], and yawned 0 time(s) at [] during your trip.
+Trip duration: 13/06/2020 15:06:39 to 13/06/2020 15:06:45, You have slept 0 time(s) at [], and yawned 0 time(s) at [] during your trip.
+Trip duration: 13/06/2020 15:09:42 to 13/06/2020 15:09:48, You have slept 0 time(s) at [], and yawned 0 time(s) at [] during your trip.
+Trip duration: 13/06/2020 15:11:26 to 13/06/2020 15:11:31, You have slept 0 time(s) at [], and yawned 0 time(s) at [] during your trip.
+Trip duration: 13/06/2020 15:17:52 to 13/06/2020 15:17:59, You have slept 0 time(s) at [], and yawned 0 time(s) at [] during your trip.
+Trip duration: 26/07/2020 12:55:37 to 26/07/2020 12:57:36, You have slept 1 time(s) at ['26/07/2020 12:57:05'], and yawned 0 time(s) at [] during your trip.
+Trip duration: 26/07/2020 12:59:00 to 26/07/2020 13:04:04, You have slept 3 time(s) at ['26/07/2020 13:01:07', '26/07/2020 13:02:14', '26/07/2020 13:03:52'], and yawned 5 time(s) at ['26/07/2020 13:00:13', '26/07/2020 13:00:40', '26/07/2020 13:03:30', '26/07/2020 13:03:46', '26/07/2020 13:03:59'] during your trip.
+Trip duration: 30/07/2020 13:53:52 to 30/07/2020 13:54:08, You have slept 0 time(s) at [], and yawned 0 time(s) at [] during your trip.
+Trip duration: 30/07/2020 13:55:19 to 30/07/2020 13:55:47, You have slept 0 time(s) at [], and yawned 0 time(s) at [] during your trip.
+Trip duration: 30/07/2020 13:56:26 to 30/07/2020 14:00:51, You have slept 1 time(s) at ['30/07/2020 13:59:49'], and yawned 0 time(s) at [] during your trip.
+Trip duration: 30/07/2020 14:01:52 to 30/07/2020 14:02:37, You have slept 0 time(s) at [], and yawned 0 time(s) at [] during your trip.
+Trip duration: 30/07/2020 14:10:29 to 30/07/2020 14:11:45, You have slept 0 time(s) at [], and yawned 0 time(s) at [] during your trip.
+Trip duration: 30/07/2020 14:12:48 to 30/07/2020 14:14:27, You have slept 2 time(s) at ['30/07/2020 14:14:15', '30/07/2020 14:14:22'], and yawned 2 time(s) at ['30/07/2020 14:14:12', '30/07/2020 14:14:20'] during your trip.
